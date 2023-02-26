@@ -39,3 +39,8 @@ EXTRA CREDIT - Analyze how much money is spent per member
 
 ### Task 2: Design a star schema
 <img src="./images/divvy_star_schema.jpg" title="Divvy Star Schema">
+
+### Task 3: Create the data in PostgreSQL
+<img src="./images/import_data.png" title="Import Data">
+
+
