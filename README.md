@@ -48,3 +48,18 @@ EXTRA CREDIT - Analyze how much money is spent per member
 
 <img src="./images/load_data_from_postgreSQL_to_blob_storage.png" title="EXTRACT the data from PostgreSQL">
 
+### Task 5: LOAD the data into external tables in the data warehouse
+#### SQL Scripts: ./external_scripts/*.sql
+#### Station
+<img src="./images/external_stations.png" title="External Station">
+
+#### Rider
+<img src="./images/external_riders.png" title="External Rider">
+
+#### Payment
+<img src="./images/external_payments.png" title="External Payment">
+
+
+#### Trip
+<img src="./images/external_trips.png" title="External Trip">
+
