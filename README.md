@@ -43,4 +43,8 @@ EXTRA CREDIT - Analyze how much money is spent per member
 ### Task 3: Create the data in PostgreSQL
 <img src="./images/import_data.png" title="Import Data">
 
+### Task 4: EXTRACT the data from PostgreSQL
+<img src="./images/load_data_from_postgreSQL_to_blob_storage_2.png" title="EXTRACT the data from PostgreSQL">
+
+<img src="./images/load_data_from_postgreSQL_to_blob_storage.png" title="EXTRACT the data from PostgreSQL">
 
