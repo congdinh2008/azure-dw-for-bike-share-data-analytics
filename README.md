@@ -59,7 +59,24 @@ EXTRA CREDIT - Analyze how much money is spent per member
 #### Payment
 <img src="./images/external_payments.png" title="External Payment">
 
-
 #### Trip
 <img src="./images/external_trips.png" title="External Trip">
 
+### Task 6: TRANSFORM the data to the star schema
+#### SQL Scripts: ./transformation_scripts/*.sql
+#### Dimension Stations
+<img src="./images/dim_stations.png" title="Dimension Stations">
+
+#### Dimension Dates
+<img src="./images/dim_dates.png" title="Dimension Dates">
+
+#### Dimension Riders
+<img src="./images/dim_riders.png" title="Dimension Riders">
+
+#### Fact Trips
+<img src="./images/fact_trips.png" title="Fact Trips">
+
+#### Fact Payments
+<img src="./images/fact_payments.png" title="Fact Payments">
+
+### End
